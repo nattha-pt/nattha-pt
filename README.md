@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-## I'm Natthaphong Pitisriphatthanarakul
+# I'm Natthaphong Pitisriphatthanarakul
 ### You can call me Leo. Currently I'm studying at Prince of Songkla University. I am a student at the Faculty of Engineering. My academic program are Computer Engineering.
 
-
+### I am currently interest to learning about : UX/UI DESIGNER + DEVELOPER + WEB ENGINEERING
+### and try to gain more experience
 
 
 
